@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 110" role="img" aria-label="Russi Labs">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#9b5cff"/>
+      <stop offset="1" stop-color="#4d8dff"/>
+    </linearGradient>
+  </defs>
+  <rect width="520" height="110" rx="20" fill="#07070a"/>
+  <path d="M38 28h36c18 0 28 9 28 24 0 11-6 19-17 22l20 20H85L67 77H55v17H38V28Zm17 14v21h17c8 0 13-4 13-10s-5-11-13-11H55Z" fill="white"/>
+  <text x="120" y="72" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="800" letter-spacing="3">RUSSI</text>
+  <text x="300" y="72" fill="url(#g)" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="800" letter-spacing="3">LABS</text>
+</svg>
